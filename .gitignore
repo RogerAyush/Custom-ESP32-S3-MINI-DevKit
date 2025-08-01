@@ -1,0 +1,13 @@
+# Altium Designer temporary and backup files
+*.Bak
+*.PrjPcb.Zip
+*.SchDoc.Zip
+*.PcbDoc.Zip
+*.Log
+*.Bak.*
+*.Lnk
+*.PcbDocPreview
+*.SchDocPreview
+*.Rep
+History/
+__Previews/

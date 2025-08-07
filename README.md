@@ -1,6 +1,7 @@
 # Custom-ESP32-S3-MINI-DevKit
 
-![ESP32-S3 DevKit PCB](https://via.placeholder.com/150) ![Altium Logo](https://via.placeholder.com/100)
+<img width="1184" height="504" alt="{0240D4F9-333B-4E3E-A1E6-A29250907F67}" src="https://github.com/user-attachments/assets/85da1cd2-40b8-4ce8-b013-6b249ee6fb30" />
+
 
 Welcome to my **Custom-ESP32-S3-MINI-DevKit** project! 🎉  
 I’ve designed a **PCB** for the ESP32-S3 DevKit using **Altium Designer**, blending innovation with precision. I hope you like it! 😊  

@@ -1,6 +1,10 @@
 # Custom-ESP32-S3-MINI-DevKit
 
-<img width="1184" height="504" alt="{0240D4F9-333B-4E3E-A1E6-A29250907F67}" src="https://github.com/user-attachments/assets/85da1cd2-40b8-4ce8-b013-6b249ee6fb30" />
+<img width="1228" height="475" alt="image" src="https://github.com/user-attachments/assets/cfbd84be-0daf-4a7d-94de-983db1ce2154" />
+
+
+<img width="1096" height="588" alt="image" src="https://github.com/user-attachments/assets/c0d68995-6fce-40ce-9554-8a85eba22548" />
+
 
 
 Welcome to my **Custom-ESP32-S3-MINI-DevKit** project! 🎉  

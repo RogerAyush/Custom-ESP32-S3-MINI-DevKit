@@ -3,7 +3,10 @@
 <img width="1228" height="475" alt="image" src="https://github.com/user-attachments/assets/cfbd84be-0daf-4a7d-94de-983db1ce2154" />
 
 
-<img width="1096" height="588" alt="image" src="https://github.com/user-attachments/assets/c0d68995-6fce-40ce-9554-8a85eba22548" />
+<img width="1121" height="569" alt="image" src="https://github.com/user-attachments/assets/dc25296a-2468-425e-b1a1-28a57f9dc242" />
+
+
+<img width="1150" height="651" alt="image" src="https://github.com/user-attachments/assets/7b931e6a-49b0-4872-b2dc-43ee84215c2e" />
 
 
 
@@ -24,4 +27,4 @@ I’m open to **suggestions** and **feedback** to refine this design further. Fe
 
 ---
 
-*Designed with passion by Ayush Zade. *
+*Designed by Ayush Zade. *
